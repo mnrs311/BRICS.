@@ -1,1 +1,1 @@
-https://github.com/mnrs311/BRICS./blob/main/20251026_150411_1562688539_11zon.png
+https://github.com/mnrs311/BRICS./blob/6da07f518651e5ed9931792499eb7972ea60f877/20251026_150411_1562688539_11zon.png
